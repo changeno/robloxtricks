@@ -1,0 +1,70 @@
+body {
+    background:#999;
+    font-family: Arial;
+    margin: 0;
+    position: absolute;
+}
+
+head {
+    padding: 0px;
+    margin: 0;
+}
+
+head li {
+    list-style-type: none,
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 5px 10px;
+}
+
+nav ul li a {
+    color: white;
+    display: inline;
+}
+
+div {
+    display: inline-block;
+}
+
+head h2 {
+    display: inline;
+}
+
+
+
+h3 {
+    background: white;
+    display: inline;
+}
+
+.col {
+    padding : 10px;
+    position: relative;
+    z-index: 500;
+}
+
+#roux {
+    left: 300px;
+    visibility: visible;
+    position: relative;
+}
+
+#roblox {
+    position: relative;
+    bottom: 33px;
+}
+
+#scam {
+    position: relative;
+    left: 111px;
+    bottom: 68px;
+}
+
+#morefoot1 {
+    position: relative;
+    bottom: 50px,
+}
+
